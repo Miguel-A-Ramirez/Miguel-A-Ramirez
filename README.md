@@ -12,4 +12,4 @@
 [![Css](https://img.shields.io/badge/Css-007396?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 
 ### Contact me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Angel_Ramirez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](linkedin.com/in/miguel-angel-ramirez-rodriguez-5b7325203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Angel_Ramirez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-angel-ramirez-rodriguez-5b7325203)
